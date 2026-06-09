@@ -1,5 +1,6 @@
 # Project 
 openprinttag-database/
+openprinttag-database-old/
 # Virtual environment
 .venv/
 venv/
