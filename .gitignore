@@ -7,4 +7,5 @@ venv/
 # misc
 .DS_Store
 output/
+output_printonion/
 test.py
