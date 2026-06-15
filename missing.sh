@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 if [[ $# -ne 2 ]]; then
-    echo "Usage: $0 <material> <brand>"
+    echo "Usage: $0 <material> <brand>, ./missing.sh PETG qidi"
     exit 1
 fi
 
