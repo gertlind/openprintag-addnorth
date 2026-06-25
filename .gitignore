@@ -13,3 +13,4 @@ addnorth-petg-black.yaml
 addnorth_petg_missing.csv
 missing_properties.py
 qidi_petg_missing.csv
+missing_properties/
